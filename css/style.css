@@ -5,3 +5,24 @@
     color: #ddd;
     margin:2px;
 }
+.card-image {
+width: 50%;
+}
+
+
+
+  
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+   
+}
+#site-search{
+    width: 50%;
+    margin: .4rem 0;
+}
